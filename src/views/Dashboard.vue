@@ -5,9 +5,9 @@
       <!-- Card stats -->
       <b-row>
         <b-col xl="3" md="6">
-          <stats-card title="Total traffic"
+          <stats-card title="班级满分人数"
                       type="gradient-red"
-                      sub-title="350,897"
+                      sub-title="10"
                       icon="ni ni-active-40"
                       class="mb-4">
 

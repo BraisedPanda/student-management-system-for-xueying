@@ -14,7 +14,7 @@
 
         <sidebar-item
             :link="{
-              name: 'Icons',
+              name: '图标',
               path: '/icons',
               icon: 'ni ni-planet text-blue'
               }"
@@ -23,7 +23,7 @@
 
         <sidebar-item
               :link="{
-                name: 'Maps',
+                name: '地图',
                 path: '/maps',
                 icon: 'ni ni-pin-3 text-orange'
               }">
@@ -31,7 +31,7 @@
 
         <sidebar-item
               :link="{
-                name: 'User Profile',
+                name: '个人中心',
                 path: '/profile',
                 icon: 'ni ni-single-02 text-yellow'
                 }">
@@ -39,7 +39,7 @@
 
         <sidebar-item
                 :link="{
-                  name: 'Tables',
+                  name: '表格',
                   path: '/tables',
                   icon: 'ni ni-bullet-list-67 text-red'
                 }">
@@ -47,14 +47,14 @@
 
         <sidebar-item
                   :link="{
-                    name: 'Login',
+                    name: '登录',
                     path: '/login',
                     icon: 'ni ni-key-25 text-info'
                   }">
         </sidebar-item>
         <sidebar-item
                   :link="{
-                    name: 'Register',
+                    name: '注册',
                     path: '/register',
                     icon: 'ni ni-circle-08 text-pink'
                   }">
